@@ -1,2 +1,5 @@
-# dash-template
-TigerGraph Cloud Covid 19 Dash Template
+# Creat Conda Environment  using the Requirements.txt
+
+```
+conda create --name <env> --file requirements.txt
+```
